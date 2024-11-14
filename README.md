@@ -1,7 +1,7 @@
 <H3>NAME:SUBASHINI S</H3>
 <H3>REGISTER NO:212222240106</H3>
 <H3>EX.NO:6</H3>
-<H3>DATE:21/10/2024</H3>
+<H3>DATE:4/10/2024</H3>
 <H1 ALIGN =CENTER>Implementation of Semantic Analysis</H1>
 
 ## AIM:
